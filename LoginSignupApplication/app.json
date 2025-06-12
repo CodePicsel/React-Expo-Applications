@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Phile",
+    "slug": "LoginSignupApplication",
+    "scheme": "loginapp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.stardust.LoginSignupApplication",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79d81dc3-5eb2-4377-b6ea-4defb4993df0"
+      }
+    },
+    "owner": "shashankbankar"
+  }
+}
